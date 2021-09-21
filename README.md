@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @YuriMarch
 - 👀 I’m interested in Web Development & ARPGs.
 - 🌱 I’m currently learning HTML, CSS & Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @yuri.march
+- 💞️ I’m looking to collaborate on Front End Projects
+- 📫 Reach me @yuri.march on Instagram or https://www.linkedin.com/in/yuri-march/ on LinkedIn
+- 
 
 <!---
 YuriMarch/YuriMarch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
