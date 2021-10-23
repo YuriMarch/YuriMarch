@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development & ARPGs.
 - 🌱 I’m currently learning HTML, CSS & Javascript.
 - 💞️ I’m looking to collaborate on Front End Projects
-- 📫 Reach me @yuri.march on Instagram or on [LinkedIn](url('https://www.linkedin.com/in/yuri-march/')
+- 📫 Reach me @yuri.march on Instagram or on [LinkedIn](https://www.linkedin.com/in/yuri-march/)
 - 
 
 <!---
