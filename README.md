@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS & Javascript.
 - 💞️ I’m looking to collaborate on Front End Projects
 - 📫 Reach me @yuri.march on Instagram or on [LinkedIn](https://www.linkedin.com/in/yuri-march/)
-- 
+
 
 <!---
 YuriMarch/YuriMarch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
