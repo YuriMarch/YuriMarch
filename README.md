@@ -1,6 +1,6 @@
-<img align="right" height="590em" 
+<img align="right" height="590em">
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Yuri March</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YuriMarch&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer developing my first projects with [Lets Code](https://letscode.com.br/)
 
