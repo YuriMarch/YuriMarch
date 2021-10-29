@@ -34,7 +34,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/yuri-march" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/yuri-march-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/yurimarch-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/yuri.march" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-yuri.march-05122A?style=flat&logo=instagram" alt="instagram"/>
