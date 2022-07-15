@@ -4,7 +4,7 @@
 
 - 🔥 Junior Web Developer developing my first projects with [Lets Code](https://letscode.com.br/)
 
-- 🔭 I'm currently working on [Tophatter](https://tophatter.com/) as Customer Support Specialist
+- 🔭 I'm currently working on [Tophatter](https://tophatter.com/) as Customer Support Specialist and switching career to be a Developer
 
 - 💬 I'm looking forward to collaborate on Java, JavaScript, HTML & CSS Projects
 
