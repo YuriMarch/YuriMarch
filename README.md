@@ -15,17 +15,18 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A.svg?style=flat&logo=Java&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-05122A.svg?style=flat&logo=spring&logoColor=brightgreen)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?style=flat&logo=mongodb&logoColor=brightgreen)&nbsp;
+![Postgres](https://img.shields.io/badge/Postgres-05122A.svg?style=flat&logo=postgresql&logoColor=23316192)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A.svg?style=flat&logo=docker&logoColor=230db7ed)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-05122A.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
 
-
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
