@@ -18,8 +18,8 @@
 ![Java](https://img.shields.io/badge/Java-05122A.svg?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-05122A.svg?style=flat&logo=spring&logoColor=brightgreen)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?style=flat&logo=mongodb&logoColor=brightgreen)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/Postgres-05122A.svg?style=flat&logo=postgresql&logoColor=23316192)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-05122A.svg?style=flat&logo=docker&logoColor=230db7ed)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
