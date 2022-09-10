@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on [Tophatter](https://tophatter.com/) as Customer Support Specialist and switching career to be a Developer
 
-- 💬 I'm looking forward to collaborate on Java, JavaScript, HTML & CSS Projects
+- 💬 I'm looking forward to collaborate on Java, Spring Boot, JavaScript, HTML & CSS Projects
 
 <br><br>
 
